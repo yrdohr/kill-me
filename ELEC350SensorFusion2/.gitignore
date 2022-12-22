@@ -1,0 +1,9 @@
+.build
+.mbed
+projectfiles
+*.py*
+mbed-os
+BUILD
+x_nucleo_iks01a1_fork
+.hg
+x_nucleo_iks01a1_fork
